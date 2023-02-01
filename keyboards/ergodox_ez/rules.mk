@@ -21,6 +21,8 @@ CUSTOM_MATRIX    = lite # Custom matrix file for the ErgoDox EZ
 NKRO_ENABLE      = yes           # Enable N-Key Rollover
 UNICODE_ENABLE   = no  # Unicode
 SWAP_HANDS_ENABLE= no   # Allow swapping hands of keyboard
+TAP_DANCE_ENABLE = yes
+RGBLIGHT_ENABLE  = yes
 
 RGB_MATRIX_ENABLE = no # enable later
 RGB_MATRIX_DRIVER = IS31FL3731
